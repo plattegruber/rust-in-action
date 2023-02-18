@@ -1,0 +1,4 @@
+Scratch repo for the book Rust In Action
+
+To install Rust run `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+^ if that becomes annoying we can just create a Dockerfile and devcontainer.
